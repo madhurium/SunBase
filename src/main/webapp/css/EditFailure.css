@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: black;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 680px;
+}
+
+a:hover {
+    background-color: #333;
+}
